@@ -1,0 +1,6 @@
+First_name = "Oziel"
+Middle_name = "Guadalupe"
+Last_name = "Ibarra"
+
+print (First_name, Middle_name)
+print (Last_name)
